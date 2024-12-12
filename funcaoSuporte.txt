@@ -1,7 +1,19 @@
+1234567
+poiuytrew
+asdfghj
+
 funcaoVitor1(){
 	124567890
 }
 
 funcaoVitor2(){
-	1234uytre	
+	1234uytre
+}
+
+funcaoPedro1{
+	dflbnsçrdfnvisdjvisd
+}
+
+funcaoPedro2{
+	efwerlf4355346
 }
