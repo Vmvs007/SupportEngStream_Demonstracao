@@ -1,3 +1,7 @@
-1234567
-poiuytrew
-asdfghj
+funcaoVitor1(){
+	124567890
+}
+
+funcaoVitor2(){
+	1234uytre	
+}
